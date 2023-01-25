@@ -1,0 +1,22 @@
+1. medjusobna_iskljucivost prezentacija (do Race condition)
+2. data_race.cpp - ZAJEDNICKI 
+3. stetno_preplitanje.cpp - SAMOSTALNO
+3. medjusobna_iskljucivost.pdf (Race condition -> Klasa mutex)
+4. stetno_preplitanje_onemoguceno.cpp - ZAJEDNICKI
+5. data_race_sinhronizovan.cpp - SAMOSTALNO
+6. mutex_exception.cpp - ZAJEDNICKI
+7. medjusobna_iskljucivost.pdf (Klasa unique_lock -> Deadlock)
+8. mutex_deadlock.cpp - ZAJEDNICKI
+8. medjusobna_iskljucivost.pdf (Deljena promenljiva)
+9. data_race_sinhronizovan_klasa.cpp - SAMOSTALNO
+10. cctor_mutex.cpp - ZAJEDNICKI
+11. medjusobna_iskljucivost.pdf (ključna reč delete)
+12. racuni.cpp - SAMOSTALNO
+
+
+
+ 
+
+
+
+

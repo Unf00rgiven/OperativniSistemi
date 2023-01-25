@@ -1,0 +1,12 @@
+1. Prezentacija do "Od čega nastaju niti?"
+2. Zadatak pozdrav_iz_niti.cpp - ZAJEDNIČKI
+3. Prezentacija do "objekat klase thread"
+4. Zadatak join_detach_razlika.cpp - ZAJEDNIČKI
+5. Prezentacija "Argumenti i povratna vrednost"
+6. Zadatak zbir_brojeva_nit.cpp - ZAJEDNIČKI
+7. Zadatak referenca_nit.cpp - ZAJEDNIČKI
+8. Zadatak pokretanje_vise_niti.cpp - ZAJEDNIČKI
+9. Zadatak suma_vektora_sekvencijalno.cpp - SAMOSTALNO
+10. Zadatak suma_vektora_2_niti.cpp - ZAJEDNIČKI
+11. Zadatak suma_vektora_N_niti.cpp - SAMOSTALNO
+12. Zadatak zbir_korespodentnih_elemenata.cpp - SAMOSTALNO
